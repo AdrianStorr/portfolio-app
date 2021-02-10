@@ -3,10 +3,10 @@ import './App.css';
 import Wrapper from "./components/wrapper/wrapper"
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Nav from "./components/navbar/navbar"
-import About from "./pages/about"
-import Portfolio from "./pages/portfolio"
-import Contact from "./pages/contact"
-import NotFoundPage from "./pages/notFoundPage"
+import About from "./pages/About"
+import Portfolio from "./pages/Portfolio"
+import Contact from "./pages/Contact"
+
 function App() {
 
   return (
@@ -18,7 +18,7 @@ function App() {
           <Route exact path="/About" component={About} />
           <Route exact path="/Portfolio" component={Portfolio} />
           <Route exact path="/Contact" component={Contact} />
-          <Route component={NotFoundPage} />        </Switch>
+                  </Switch>
       </Wrapper>
     </Router>
   );

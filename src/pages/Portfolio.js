@@ -19,7 +19,7 @@ const portfolio = () => {
 
                             <div className="col-md-3">
                                 <a href="https://adrianstorr.github.io/Weather-Dashboard-app/">
-                                    <img src="Assets/weather-app.png"
+                                    <img src="https://wi-images.condecdn.net/image/doEYpG6Xd87/crop/2040/f/weather.jpg"
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Weather Dashboard</p>
@@ -29,7 +29,7 @@ const portfolio = () => {
 
                             <div className="col-md-3">
                                 <a href="https://drive.google.com/file/d/1e93bwgnMhm7jqi-4lN2EWITR14xr717C/view?usp=sharing">
-                                    <img src="Assets/ems.png"
+                                    <img src="https://blog.bonus.ly/hubfs/employee-experience-featured-image.png"
                                         className="card-img-top" alt="img-two" />
                                 </a>
                                 <p className="card-text">Employee Generator</p>
@@ -46,7 +46,7 @@ const portfolio = () => {
                             </div>
                             <div className="col-md-3">
                                 <a href="https://adrianstorr.github.io/code-quiz/">
-                                    <img src="Assets/codequiz.png"
+                                    <img src="https://canopylab.com/wp-content/uploads/2020/05/Working-with-adaptive-quizzes-A-beginners-guide.jpg"
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Code Quiz</p>
@@ -58,7 +58,7 @@ const portfolio = () => {
                             </div>
                             <div className="col-md-3">
                                 <a href="https://chernanma.github.io/Project_1">
-                                    <img src="Assets/covid19.png"
+                                    <img src="https://media.nbcboston.com/2020/11/NBC-COVID-Tracker.jpg?resize=1200%2C675ssets/covid19.png"
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Project-1</p>
@@ -73,7 +73,7 @@ const portfolio = () => {
                             <div className="col-md-1"></div>
                             <div className="col-md-3">
                                 <a href="https://peaceful-beyond-40794.herokuapp.com/">
-                                    <img src="Assets/budgettracker.png"
+                                    <img src="https://blog.hubstaff.com/wp-content/uploads/2019/02/Project-budget-management@2x.png"
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Budget Tracker</p>
@@ -86,7 +86,7 @@ const portfolio = () => {
 
                             <div className="col-md-3">
                                 <a href="https://vast-woodland-01889.herokuapp.com/">
-                                    <img src="Assets/bikeshop.png"
+                                    <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/articles/2015/12/radical-rick-main-1506737871.jpg"
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Project 2: Bike Shop App</p>
@@ -103,7 +103,7 @@ const portfolio = () => {
                             >https://www.linkedin.com/in/adrian-storr-98773731</a></p>
                             <p>Email Address: Adrianloves123@gmail.com</p>
                             <p>Phone Number:(850)-890-5740</p>
-                            <a href="./resumeUpdate.pdf"
+                            <a href="https://github.com/AdrianStorr/update-port/blob/master/resumeUpdate.pdf"
                             > Resume</a>
 
                         </div>

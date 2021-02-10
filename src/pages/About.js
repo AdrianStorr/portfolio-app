@@ -17,7 +17,7 @@ const mainPage = () => {
                         <blockquote className="blockquote mb-0">
                             <div className="row">
                                 <div className="col-md-3">
-                                    <img id="pic" src="https://avatars0.githubusercontent.com/u/56319950?s=460&u=29ea5c9829ccb251f4c3e739338f1ba870b5ce7d&v=4" alt="profile pic" width="100%" height="auto%" />
+                                    <img id="pic" src="https://avatars.githubusercontent.com/u/68280694?s=400&u=a0feac00f9784b557c7b88574e97bba2e4d1d495&v=4" alt="profile pic" width="100%" height="auto%" />
                                 </div>
 
                                 <div className="col-md-8">
