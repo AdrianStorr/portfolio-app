@@ -45,13 +45,13 @@ const portfolio = () => {
 
                             </div>
                             <div className="col-md-5">
-                                <a href="https://adrianstorr.github.io/code-quiz/">
-                                    <img src="https://canopylab.com/wp-content/uploads/2020/05/Working-with-adaptive-quizzes-A-beginners-guide.jpg"
+                                <a href="https://mbdirect.herokuapp.com/">
+                                    <img src="https://img.helpnetsecurity.com/wp-content/uploads/2020/04/28130628/videocall-remotework.jpg"
                                         className="card-img-top" alt="img-one" />
                                 </a>
-                                <p className="card-text">Code Quiz</p>
-                                <p id="repo"><a href="https://github.com/AdrianStorr/code-quiz"
-                                >https://github.com/AdrianStorr/code-quiz</a></p>
+                                <p className="card-text">Project-3</p>
+                                <p id="repo"><a href="https://github.com/chernanma/MBDirect"
+                                >https://github.com/chernanma/MBDirect</a></p>
                             </div>
                             <div className="col-md-1">
 
