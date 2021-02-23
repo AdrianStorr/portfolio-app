@@ -1,3 +1,11 @@
+.viewHeader{
+  background-image: url('./src/Assets/webdev.PNG'); 
+  background-repeat: no-repeat;
+  background-size:cover; 
+  background-position:center;
+  /* height: 100%; */
+}
+
 .navApp {
   background-color: rgb(58, 80, 128);
   color: white;
